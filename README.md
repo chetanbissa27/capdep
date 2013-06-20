@@ -1,2 +1,2 @@
-capdep_app
+capdep
 ==========
